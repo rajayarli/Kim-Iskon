@@ -18,7 +18,11 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
+<<<<<<< HEAD
 bio: Embroidery and patchwork artist celebrating Sanatana Dharma and Krishna consciousness through vibrant textile narratives. Most-Commended winner, HousingFirst MAB Annual Art Exhibition 2025.
+=======
+bio: "Embroidery and patchwork artist celebrating Sanatana Dharma and Krishna consciousness through vibrant textile narratives. Most-Commended winner, HousingFirst MAB Annual Art Exhibition 2025."
+>>>>>>> 0313191 (main push)
 
 # Social/Academic Networking
 social:
@@ -27,10 +31,17 @@ social:
     link: "about/#contact"
   - icon: instagram
     icon_pack: fab
+<<<<<<< HEAD
     link: "https://www.instagram.com/your-insta"
   - icon: globe
     icon_pack: fas
     link: "https://kiran-khanna-art.example.com"
+=======
+    link: "https://www.instagram.com/your-insta"  # ← update with real handle
+  - icon: globe
+    icon_pack: fas
+    link: "https://kiran-khanna-art.example.com"      # ← optional personal site
+>>>>>>> 0313191 (main push)
 
 # Link to a PDF of your portfolio
 # - icon: file-pdf

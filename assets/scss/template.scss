@@ -2,7 +2,10 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-  background-color: rgb(247, 250, 252);
+  background-color: #f3fef4; /* soft green */
+  background-image: url("/media/leaf-bg.svg");
+  background-repeat: repeat;
+  background-size: 300px;
 }
 
 .article-container {
