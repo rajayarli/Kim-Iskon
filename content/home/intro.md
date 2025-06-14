@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hi, there! I'm **Kiran**, a textile and embroidery artist devoted to Sanatana Dharma and Krishna consciousness.  
+{style="font-size: 1.2rem; background: #D4A373; background: linear-gradient(to right, #EECDA3 0%, #EF629F 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+Explore my [portfolio](/about/) and recent exhibitions below ✨

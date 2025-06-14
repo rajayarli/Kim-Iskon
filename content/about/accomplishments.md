@@ -17,35 +17,24 @@ subtitle:
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# Accomplishments
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+  - certificate_url: ''
+    date_end: '2025-03-15'
+    date_start: '2025-03-15'
+    description: Received the Most Commended Award and was recognized as the best artwork of the exhibition for her piece "Vrinda Devi" at the HousingFirst MAB Annual Art Exhibition.
+    organization: HousingFirst MAB
+    organization_url: ''
+    title: Most Commended Award – Vrinda Devi
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+
+  - certificate_url: ''
+    date_end: '2023-11-10'
+    date_start: '2023-11-10'
+    description: Displayed "Radha Kunda" and "Harmony" in the group showcase on sacred art and consciousness at the Krishna Art Collective, Melbourne.
+    organization: Krishna Art Collective
+    organization_url: ''
+    title: Group Exhibition – Sacred Art
     url: ''
 
 design:
