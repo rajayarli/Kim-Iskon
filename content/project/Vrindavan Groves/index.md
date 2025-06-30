@@ -1,6 +1,6 @@
 ---
-title: Twilight
-summary: Twilight (47cm by 38cm) — Embroidery and patchwork. As twilight descends, Radha and Krishna dance in the forest groves, where every step is love, and every breeze sings their name.
+title: Vrindavan Groves (40cm by 31cm) 
+summary: Embroidery and patchwork. In the meadows of Vrindavan their love blossoms like a sacred garden, where every petal and leaf speak of their unity. Krishna’s playful glances and Radha’s tender sighs dance in the breeze.
 tags:
   - Textile
   - Devotion

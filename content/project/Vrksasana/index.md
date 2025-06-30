@@ -1,6 +1,6 @@
 ---
-title: Vrksasana
-summary: Vrksasana (44cm by 32cm) — Embroidery and patchwork. This piece depicts the Vṛkṣāsana (Tree Pose), a yogic posture symbolising balance, rootedness, and spiritual growth.
+title: Holy Vrinda (64cm by 52cm) Embroidery and Patchwork)
+summary:  Vrinda Devi, also known as Tulasi, is the goddess of devotion and the guardian of rindavan’s sacred forests. She lovingly arranges Radha and Krishna’s pastimes, ensuring the groves bloom with divine beauty.
 tags:
   - Textile
   - Devotion
